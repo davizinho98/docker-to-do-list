@@ -1,7 +1,6 @@
 # Docker To Do List
 
-Projeto da [Trybe][1] - Criação e orquestração de containers com Docker.
-[1]: https://www.betrybe.com/ "Trybe"
+Projeto da [Trybe](https://www.betrybe.com/ "Trybe") - Criação e orquestração de containers com Docker.
 
 ## Descrição
 
